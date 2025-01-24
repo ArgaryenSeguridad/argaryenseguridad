@@ -1,0 +1,175 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://argaryenseguridad.github.io/argaryenseguridad" resolutions="1x,2x" timestamp="1737719908940">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="34782993" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3939489907" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="3936894949" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index"/>
+    <file name="webpro.js" crc="3856315280" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="fondo.jpg" crc="3877868984" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="drone 2.png" crc="69690751" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="drone 1.png" crc="3809877502" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="drone 1_2x.png" crc="4286448396" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="original_lynx.png" crc="4172582050" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp-logo-11.png" crc="4069313796" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp-logo-11_2x.png" crc="364791052" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="email.png" crc="4133121961" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="email_2x.png" crc="3829580187" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="ic1.png" crc="417291659" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ic1_2x.png" crc="3967924076" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ic2.png" crc="228431617" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ic2_2x.png" crc="4247160030" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ic3.png" crc="4121500676" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ic3_2x.png" crc="3809706205" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ic4.png" crc="4257915250" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ic4_2x.png" crc="3809166469" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u796-4.png" crc="471631984" ref="index"/>
+    <file name="u796-4_2x.png" crc="3898819828" ref="index"/>
+    <file name="u806-11.png" crc="78009615" ref="index"/>
+    <file name="u806-11_2x.png" crc="484530076" ref="index"/>
+    <file name="u809-30.png" crc="428780320" ref="index"/>
+    <file name="u809-30_2x.png" crc="3977974211" ref="index"/>
+    <file name="s1.png" crc="22450555" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s1_2x.png" crc="458877895" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u929-6.png" crc="4051822065" ref="index"/>
+    <file name="u929-6_2x.png" crc="420990804" ref="index"/>
+    <file name="u938-4.png" crc="3875176341" ref="index"/>
+    <file name="u938-4_2x.png" crc="440245852" ref="index"/>
+    <file name="s6.png" crc="195777320" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s6_2x.png" crc="335017982" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u950-4.png" crc="57039457" ref="index"/>
+    <file name="u950-4_2x.png" crc="323026617" ref="index"/>
+    <file name="u951-6.png" crc="4039149773" ref="index"/>
+    <file name="u951-6_2x.png" crc="128497824" ref="index"/>
+    <file name="s2.png" crc="426357225" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s2_2x.png" crc="536738872" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u932-4.png" crc="4041011055" ref="index"/>
+    <file name="u932-4_2x.png" crc="3947567680" ref="index"/>
+    <file name="u939-4.png" crc="3947279588" ref="index"/>
+    <file name="u939-4_2x.png" crc="88044705" ref="index"/>
+    <file name="s7.png" crc="4008685532" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s7_2x.png" crc="4119954245" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s5.png" crc="455590828" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s5_2x.png" crc="4158093926" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u956-4.png" crc="3900083203" ref="index"/>
+    <file name="u956-4_2x.png" crc="4080098372" ref="index"/>
+    <file name="u962-4.png" crc="20012412" ref="index"/>
+    <file name="u962-4_2x.png" crc="4233013360" ref="index"/>
+    <file name="u957-4.png" crc="462072870" ref="index"/>
+    <file name="u957-4_2x.png" crc="4239590125" ref="index"/>
+    <file name="u963-4.png" crc="520146616" ref="index"/>
+    <file name="u963-4_2x.png" crc="122094932" ref="index"/>
+    <file name="elec.png" crc="445414640" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="elec_2x.png" crc="89848934" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u935-4.png" crc="56301997" ref="index"/>
+    <file name="u935-4_2x.png" crc="360721620" ref="index"/>
+    <file name="u940-4.png" crc="8973168" ref="index"/>
+    <file name="u940-4_2x.png" crc="330897596" ref="index"/>
+    <file name="s8.png" crc="324768423" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s8_2x.png" crc="3950262254" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u968-4.png" crc="3980201618" ref="index"/>
+    <file name="u968-4_2x.png" crc="4212311478" ref="index"/>
+    <file name="u969-4.png" crc="4073088479" ref="index"/>
+    <file name="u969-4_2x.png" crc="192746977" ref="index"/>
+    <file name="captcha.png" crc="362548909" ref="index"/>
+    <file name="fblogo-u1177-fr.png" crc="4213821635" ref="index"/>
+    <file name="fblogo-u1177-fr_2x.png" crc="3864009968" ref="index"/>
+    <file name="walogo-u1188-fr.png" crc="4024246001" ref="index"/>
+    <file name="walogo-u1188-fr_2x.png" crc="470397262" ref="index"/>
+    <file name="tklogo-u1191-fr.png" crc="4001617229" ref="index"/>
+    <file name="tklogo-u1191-fr_2x.png" crc="3921570791" ref="index"/>
+    <file name="iglogo-u1194-fr.png" crc="183132470" ref="index"/>
+    <file name="iglogo-u1194-fr_2x.png" crc="158166298" ref="index"/>
+    <file name="linklogo-u1197-fr.png" crc="161082365" ref="index"/>
+    <file name="linklogo-u1197-fr_2x.png" crc="145845314" ref="index"/>
+    <file name="ytlogo-u1232-fr.png" crc="133366384" ref="index"/>
+    <file name="ytlogo-u1232-fr_2x.png" crc="4264743905" ref="index"/>
+    <file name="logocabeza.png" crc="112001623" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logocabeza_2x.png" crc="328843754" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logoletras.png" crc="3784017261" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logoletras_2x.png" crc="241808084" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4188952462" seo="true" mt="1737657245538" redirect="true"/>
+</manifest>
